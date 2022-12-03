@@ -1,1 +1,2 @@
 hey I'm using git
+This is a new line to the git.txt
